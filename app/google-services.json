@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016682813690",
+    "project_id": "updatelivelocation-a50aa",
+    "storage_bucket": "updatelivelocation-a50aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016682813690:android:c0117f861cc6f9e0c29143",
+        "android_client_info": {
+          "package_name": "com.velmurugan.updatelivelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016682813690-sigfdt44qfgv2nevbqq2tdnmdji1sok0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrvUtaUDWNFosjy0iF2uv-wg5t3uQmZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016682813690-sigfdt44qfgv2nevbqq2tdnmdji1sok0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

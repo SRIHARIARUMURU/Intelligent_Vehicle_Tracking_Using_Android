@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Intelligent Vehicle Tracking</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCL-YlihqNntU0-Te5P7naUsQuiU8j7Zr8</string>
+    <string name="txt_addbus">Add Bus</string>
+    <string name="txt_add_bus">Add Bus</string>
+    <string name="track_the_bus">Track the Bus</string>
+    <string-array name="bus_routes">
+        <item>Select The BusNo</item>
+        <item>Bus-1</item>
+        <item>Bus-2</item>
+        <item>Bus-3</item>
+        <item>Bus-4</item>
+        <item>Bus-5</item>
+        <item>Bus-6</item>
+        <item>Bus-7</item>
+        <item>Bus-8</item>
+        <item>Bus-9</item>
+        <item>Bus-10</item>
+        <item>Bus-11</item>
+        <item>Bus-12</item>
+        <item>Bus-13</item>
+        <item>Bus-14</item>
+        <item>Bus-15</item>
+        <item>Bus-16</item>
+        <item>Bus-17</item>
+        <item>Bus-18</item>
+        <item>Bus-19</item>
+        <item>Bus-20</item>
+    </string-array>
+
+    <string-array name="branch">
+        <item>Select Branch</item>
+        <item>CSE</item>
+        <item>CSE-AI</item>
+        <item>CSE-I0T</item>
+        <item>AIML</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>CIVIL</item>
+        <item>MECH</item>
+    </string-array>
+    <string-array name="sections">
+        <item>Select Section</item>
+        <item>A Section</item>
+        <item>B Section</item>
+        <item>C Section</item>
+        <item>D Section</item>
+        <item>E Section</item>
+    </string-array>
+    <string-array name="years">
+        <item>Select Year</item>
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+    </string-array>
+    <string-array name="semisters">
+        <item>Select Semister</item>
+        <item>1st Semister</item>
+        <item>2nd Semister</item>
+    </string-array>
+
+    <string-array name="userType">
+        <item>Select User</item>
+        <item>Admin</item>
+        <item>Student</item>
+        <item>Driver</item>
+    </string-array>
+</resources>
+
